@@ -1,0 +1,15 @@
+{
+  "name": "Back-end_com_Node.js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "script": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
