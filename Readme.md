@@ -1,7 +1,3 @@
-<h3 align="center">
-  Back-end com Node.js
-</h3>
-
 <p align="center">
   <img  src="./assets/Node.js_logo.svg">
 </p>
