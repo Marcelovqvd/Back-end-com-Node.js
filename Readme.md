@@ -25,7 +25,7 @@ Para criar scripts para nodemon
         yarn add uuidv4 - Gerar id automaticamente
 
 <p align="center">
-  <img  src="./assets/nodejs-example.png">
+  <img  src="./assets/Node.js_logo.svg">
 </p>
 
 ### Rotas da aplicação
