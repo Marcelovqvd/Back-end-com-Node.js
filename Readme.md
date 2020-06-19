@@ -2,6 +2,10 @@
   Back-end com Node.js
 </h3>
 
+<p align="center">
+  <img  src="./assets/Node.js_logo.svg">
+</p>
+
 # Back-end com Node.JS
 
   Projeto para fins de estudo dentro da Rocketseat - Bootcamp GoStack 2020
@@ -23,10 +27,6 @@ Para criar scripts para nodemon
 #### uuidv4
 
         yarn add uuidv4 - Gerar id automaticamente
-
-<p align="center">
-  <img  src="./assets/Node.js_logo.svg">
-</p>
 
 ### Rotas da aplicação
 
